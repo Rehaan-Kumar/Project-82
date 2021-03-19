@@ -1,0 +1,30 @@
+.body_background {
+    text-align: center;
+    background: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    color: red;
+    font-family: sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 50px;
+    margin: 20px;
+}
+
+#myCanvas {
+    border-width: 10px;
+    border-style: ridge;
+    background-color: white;
+    text-align: center;
+}
+
+span {
+    margin: 10px;
+}
+
+input {
+    margin: 10px;
+}
